@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Somanda]]></title>
+        <description><![CDATA[Somanda]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Apr 2016 20:35:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Opinion: IFTTT has just provided the universal IoT remote]]></title>
+            <description><![CDATA[<article><h1>Opinion: IFTTT has just provided the universal IoT remote</h1><p>IFTTT (If This Then That) introduced a range of 'Do' apps yesterday; Do Button, Do Camera, and Do Note. Each of these help to perform a specific function - of which their simplistic names might suggest - but it is the Do Button application which has the most potential.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f1a30174f44aa525fa12f29d5315c7bf6e55c11.png"></article>]]></description>
+            <link>http://www.developer-tech.com/news/2015/feb/20/opinion-ifttt-has-just-provided-universal-iot-remote/</link>
+            <guid isPermaLink="false">e5ff1740-69b5-42c1-bb9f-41be56da21a8</guid>
+            <pubDate>Mon, 18 Apr 2016 20:34:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
